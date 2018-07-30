@@ -7,4 +7,4 @@
 * **实现技术：**
   * vue
 
-**[在线演示](http://loisluo.com/pp)**
+**[在线演示](http://loisluo.com/app)**
