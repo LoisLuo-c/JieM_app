@@ -1,30 +1,10 @@
-# vueapp
+## 仿界面新闻APP
 
-> A Vue.js project
+* **页面：**
+  * 站首页、频道页面、新闻文章页面、视频页面、用户设置页面、搜索页面
+* **主要功能：**
+  * 播图、滑动切页、搜索、评论、回复、点赞、头像上传、消息提醒、历史记录
+* **实现技术：**
+  * vue
 
-## Build Setup
-
-``` bash
-# install dependencies
-npm install
-
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
-
-# run unit tests
-npm run unit
-
-# run e2e tests
-npm run e2e
-
-# run all tests
-npm test
-```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+**[在线演示](http://loisluo.com/pp)**
