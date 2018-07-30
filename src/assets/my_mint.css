@@ -1,0 +1,30 @@
+/* 搜索栏样式 */
+.mint-search .mint-searchbar {
+    background-color: #f5f0ef;
+    height: 30px;
+}
+.mint-searchbar-inner{
+    background-color: #f5f0ef;
+    height: 25px;
+}
+.mint-searchbar-inner  .mintui-search{
+   font-size: 20px
+}
+.mint-searchbar-inner input{
+    background-color: #f5f0ef;
+    height: 20px;
+}
+/* 登录设置 */
+.mint-field .mint-cell-title{
+    width: 4.5rem;
+}
+.mint-field .mint-cell-text{
+    color: black;
+    font-size: 0.9rem;
+  }
+  .mint-field .mint-cell-value{
+      font-size: 0.9rem;
+  }
+.mint-indicator-wrapper{
+z-index:20;
+}
